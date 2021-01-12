@@ -1,10 +1,10 @@
 {
     "Strike_MRS": {
-        "NAME": "Simple искра",
+        "NAME": "Простая искра",
         "DESCRIPTION": "Наносит !D! урона."
     },
     "Defend_MRS": {
-        "NAME": "Defend",
+        "NAME": "Оборона",
         "DESCRIPTION": "Даёт !B! Защиты."
     },
     "AsteroidBelt": {
@@ -20,7 +20,7 @@
         "DESCRIPTION": "Наносит !B! урона. Наносит !M! additional урона for each Ожог in your hand. NL Усиление  [E]  : Наносит double урона. "
     },
     "DarkSpark": {
-        "NAME": "Dark искра",
+        "NAME": "Тёмная искра",
         "DESCRIPTION": "Сжигается top !M! cards of your draw pile,Наносит !D! урона to ВСЕМ врагов for each Attack Exhausted.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
     },
