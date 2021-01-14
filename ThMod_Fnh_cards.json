@@ -9,105 +9,105 @@
     },
     "AsteroidBelt": {
         "NAME": "Asteroid Belt",
-        "DESCRIPTION": "Даёт !B! Защиты. NL Усиление  [E]  : Next turn, Даёт !B! Защиты."
+        "DESCRIPTION": "Даёт !B! Защиты. NL Усиление  [E]  : Даёт ещё !B! Защиты в начале след. хода."
     },
     "BigCrunch": {
         "NAME": "Big Crunch",
-        "DESCRIPTION": "Сжигается half of the cards in your discard pile and Draw Pile. Даёт  [E]  and draw 1 card for every !M! cards Exhausted. NL Сжигается."
+        "DESCRIPTION": "Сжигает половину карт в стопке добора и стопке сброса. NL Даёт по [E] и вы берёте по 1 карте за каждые сожжёеные !M! карты. NL Сжигается."
     },
     "BlazingStar": {
         "NAME": "Blazing Star",
-        "DESCRIPTION": "Наносит !B! урона. Наносит !M! additional урона for each Ожог in your hand. NL Усиление  [E]  : Наносит double урона. "
+        "DESCRIPTION": "Наносит !B! урона. Наносит по !M! доп. урона за КАЖДЫЙ ожог в руке. NL Усиление  [E]  : Наносит двойной урон. "
     },
     "DarkSpark": {
         "NAME": "Тёмная искра",
-        "DESCRIPTION": "Сжигается top !M! cards of your draw pile,Наносит !D! урона to ВСЕМ врагов for each Attack Exhausted.",
+        "DESCRIPTION": "Сжигает верхние !M! карты с верха стопки добора, наносит !D! урона ВСЕМ врагов за каждую сожжёную Атаку.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW"
     },
     "DeepEcoloBomb": {
         "NAME": "Deep Ecological Bomb",
-        "DESCRIPTION": "Наносит !D! урона to a random врагу, then reduce its Силы by !M! this turn. NL Усиление  [E]  : Накладывает this effect aДаёт."
+        "DESCRIPTION": "Наносит !D! урона случ. врагу NL Этот враг теряет !M! Силы до конца своего хода. NL Усиление  [E]  : Накладывает этот эффект снова."
     },
     "DoubleSpark": {
-        "NAME": "Double искра",
-        "DESCRIPTION": "Наносит !D! урона. Добавляет 1 искра to your hand.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет 1 Улучшенных искра to your hand."
+        "NAME": "Двойная искра",
+        "DESCRIPTION": "Наносит !D! урона. Добавляет 1 *Искру в руку.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет 1 *Искру+ в руку."
     },
     "EarthLightRay": {
         "NAME": "Earthlight Ray",
-        "DESCRIPTION": "Восполняет !M! ОЗ. Сжигается. NL Усиление  [E]  : Кладет a random card from your discard pile into your hand.",
-        "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. Сжигается. NL Усиление  [E]  : Кладет a card from your discard pile into your hand."
+        "DESCRIPTION": "Восполняет !M! ОЗ. Сжигается. NL Усиление  [E]  : Вы кладёте случ. карту из стопки сброса в руку.",
+        "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. Сжигается. NL Усиление  [E]  : Вы кладёте выбранную карту из стопки сброса в руку."
     },
     "EscapeVelocity": {
         "NAME": "Escape Velocity",
-        "DESCRIPTION": "At the start of each turn, draw 2 more cards and Добавляет a Ожог to your hand.",
-        "UPGRADE_DESCRIPTION": "Начальная. At the start of each turn, draw 2 more cards and Добавляет a Ожог to your hand."
+        "DESCRIPTION": "Вы берёте 2 доп. карты и добавляете в руку *Ожог в начале каждого вашего хода.",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Вы берёте 2 доп. карты и добавляете в руку *Ожог в начале каждого вашего хода."
     },
     "FinalSpark": {
-        "NAME": "Final искра",
-        "DESCRIPTION": "Cost 1 less  [E]  for each card containing \"Spark\" played this combat. NL Наносит !D! урона to ВСЕМ врагов. NL Reset the cost of this card.",
-        "UPGRADE_DESCRIPTION": "Оставляется. NL Cost 1 less  [E]  for each card containing \"Spark\" played this combat. NL Наносит !D! урона to ВСЕМ врагов. NL Reset the cost of this card."
+        "NAME": "Последняя искра",
+        "DESCRIPTION": "Стоит на 1 [E] меньше за КАЖДУЮ карту, содержащую \"Искра\" в названии, разыгранную в этом бою. NL Наносит !D! урона ВСЕМ врагам. NL Сбрасывает свою цену.",
+        "UPGRADE_DESCRIPTION": "Оставляется. NL Стоит на 1 [E] меньше за КАЖДУЮ карту, содержащую \"Искра\" в названии, разыгранную в этом бою. NL Наносит !D! урона ВСЕМ врагам. NL Сбрасывает свою цену."
     },
     "GrandCross": {
         "NAME": "Grand Cross",
-        "DESCRIPTION": "Наносит !D! урона. NL Costs 0 if you have activated an Усиление effect this turn."
+        "DESCRIPTION": "Наносит !D! урона. NL Стоит 0, если Усиление было активировано в этом ходу."
     },
     "GravityBeat": {
         "NAME": "Gravity Beat",
-        "DESCRIPTION": "Наносит !D! урона and draw a card for every !B! cards in your master deck.",
+        "DESCRIPTION": "Наносит !D! урона NL Вы берёте курту за каждые !B! карт в основной колоде.",
         "EXTENDED_DESCRIPTION": [
             " NL (",
-            " time(s))."
+            " раз(а))."
         ]
     },
     "IllusionStar": {
-        "NAME": "Illusion Star",
-        "DESCRIPTION": "Добавляет !M! random cards to your hand. Кладет a card from your hand on top of your draw pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Добавляет !M! random cards to your hand. Кладет a card from your hand on top of your draw pile."
+        "NAME": "Иллюзорная звезда",
+        "DESCRIPTION": "Добавляет !M! случ. карт в руку. NL Вы калдёте карту из руки на верх стопки добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет !M! случ. карт в руку. NL Вы калдёте карту из руки на верх стопки добора."
     },
     "MachineGunSpark": {
-        "NAME": "Machine Gun искра",
-        "DESCRIPTION": "Наносит !D! урона !M! times. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона 8 times. NL Сжигается."
+        "NAME": "Искра-автомат",
+        "DESCRIPTION": "Наносит !D! урона !M! раз. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона 8 раз. NL Сжигается."
     },
     "MagicAbsorber": {
-        "NAME": "Magic Absorber",
-        "DESCRIPTION": "Даёт !B! Защиты. Remove a random debuff from yourself. NL Сжигается."
+        "NAME": "Поглотитель магии",
+        "DESCRIPTION": "Даёт !B! Защиты. Снимает с вас случайный отриц. эффект. NL Сжигается."
     },
     "MasterSpark": {
-        "NAME": "Master искра",
-        "DESCRIPTION": "Наносит !D! урона. NL Усиление  [E]  : Наносит !B! урона instead.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Усиление  [E]  : Наносит 9 more урона."
+        "NAME": "Мастер-искра",
+        "DESCRIPTION": "Наносит !D! урона. NL Усиление  [E]  : Наносит !B! урона вместо этого.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Усиление  [E]  : Наносит 9 доп. урона."
     },
     "MeteoricShower": {
-        "NAME": "Meteonic Shower",
-        "DESCRIPTION": "Сжигается up to X + 1 cards. NL Наносит !D! урона to a random врагу 2 times for each card you Exhausted, or 3 times for each Ожог Exhausted."
+        "NAME": "Метеоритный дождь",
+        "DESCRIPTION": "Сжигает до X + 1 карт. NL Наносит !D! урона случ. врагу 2 раза за каждую сожжёную карту, или 3 раза за каждый сожжёный *Ожог."
     },
     "MilkyWay": {
-        "NAME": "Milky Way",
-        "DESCRIPTION": "Даёт !B! Защиты. Draw 1 card. NL ВСЕМ Attacks in your hand Наносит !M! additional урона this combat."
+        "NAME": "Млечный путь",
+        "DESCRIPTION": "Даёт !B! Защиты. Вы берёте 1 карту. NL ВСЕ Атаки в руке наносят !M! доп. урона в этом бою."
     },
     "NonDirectionalLaser": {
         "NAME": "Non-Directional Laser",
-        "DESCRIPTION": "Наносит !D! урона to ВСЕМ врагов, then Наносит !D! урона to a random врагу."
+        "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам NL Наносит !D! урона случ. врагу."
     },
     "Occultation": {
         "NAME": "Occultation",
-        "DESCRIPTION": "Discard your draw pile. Даёт 1 Защиты for each card discarded.",
-        "UPGRADE_DESCRIPTION": "Discard your draw pile. Даёт 1 Защиты for each card discarded +3.",
+        "DESCRIPTION": "Вы сбрасываете все карты из стопки добора. Даёт 1 Защиты за каждую из них.",
+        "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты из стопки добора. Даёт 1 Защиты за каждую из них + 3.",
         "EXTENDED_DESCRIPTION": [
-            "(Gain !B! in total.)",
+            "(Дает !B! в сумме.)",
             ""
         ]
     },
     "OortCloud": {
         "NAME": "OortCloud",
-        "DESCRIPTION": "Даёт !M! Панцирь Armor. NL Усиление  [E]  : Даёт !B! more Панцирь Armor.",
-        "UPGRADE_DESCRIPTION": "Даёт !M! Панцирь Armor. NL Усиление  [E]  : Даёт 3 more Панцирь Armor."
+        "DESCRIPTION": "Даёт !M! Панциря. NL Усиление  [E]  : Даёт !B! доп. Панциря.",
+        "UPGRADE_DESCRIPTION": "Даёт !M! Панциря. NL Усиление  [E]  : Даёт 3 доп. Панциря."
     },
     "PolarisUnique": {
         "NAME": "Polaris Unique",
-        "DESCRIPTION": "Начальная. Shuffle a Guiding Star into your draw pile. Даёт  [E]  at the start of your turn while it is in your draw pile(does not stack).",
+        "DESCRIPTION": "Начальная. Добавляет *Путводную *Звезду в стопку добора. Даёт  [E]  at the start of your turn while it is in your draw pile(does not stack).",
         "UPGRADE_DESCRIPTION": "Начальная. Shuffle a Guiding Star into your draw pile. Даёт  [E]  at the start of your turn while it is in your draw pile."
     },
     "SatelliteIllusion": {

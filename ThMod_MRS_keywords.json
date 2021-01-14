@@ -9,6 +9,14 @@
     },
     {
       "NAMES": [
+          "сожжёеные",
+	  "сожжёную",
+	  "сожжёный"
+      ],
+      "DESCRIPTION": "Сжигаемые карты убираются из колоды до конца текущего боя."
+      },
+    {
+      "NAMES": [
         "true Magicians",
         "true magicians",
         "True Magicians"
@@ -24,19 +32,24 @@
     },
     {
       "NAMES": [
-        "Exhaustion", "exhaustion"
+          "Выгорание",
+	  "выгорание"
       ],
-      "DESCRIPTION":"Exhaustion prevent you from gaining or using Charge-Up ."
+      "DESCRIPTION":"Выгорание не позволяет получать или использовать Заряд."
     },
     {
       "NAMES": [
-        "Spark", "spark"
+          "Искра",
+	  "искра"
       ],
-      "DESCRIPTION":"Spark is an attack card costs #b0 energy and exhausts upon use."
+      "DESCRIPTION":"Карта Атаки ценой в #b0, которые сжигаются при разыгрывании."
     },
     {
       "NAMES": [
-        "Charge-up", "charge-up", "chargeup", "ChargeUp"
+          "Заряд",
+	  "заряд",
+	  "chargeup",
+	  "ChargeUp"
       ],
       "DESCRIPTION":"For every #b8 stacks,double the damage of your next Attack."
     },
