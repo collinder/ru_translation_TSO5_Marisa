@@ -107,47 +107,47 @@
     },
     "PolarisUnique": {
         "NAME": "Polaris Unique",
-        "DESCRIPTION": "Начальная. Добавляет *Путводную *Звезду в стопку добора. Даёт  [E]  at the start of your turn while it is in your draw pile(does not stack).",
-        "UPGRADE_DESCRIPTION": "Начальная. Shuffle a Guiding Star into your draw pile. Даёт  [E]  at the start of your turn while it is in your draw pile."
+        "DESCRIPTION": "Начальная. NL Добавляет *Путеводную *звезду в стопку добора. NL Пока *Путеводная *звезда в стопке добора, даёт [E] в начале каждого вашего хода(не складывается).",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет *Путеводную *звезду в стопку добора. NL Пока *Путеводная *звезда в стопке добора, даёт [E] в начале каждого вашего хода."
     },
     "SatelliteIllusion": {
         "NAME": "Satellite Illusion",
-        "DESCRIPTION": "Даёт  [E]  when the number of cards in your draw pile increases during your turn.",
-        "UPGRADE_DESCRIPTION": "Начальная. Даёт  [E]  when the number of cards in your draw pile increases during your turn."
+        "DESCRIPTION": "Когда количество карт в стопке добора увеличивается в течение вашего хода, даёт [E].",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Когда количество карт в стопке добора увеличивается в течение вашего хода, даёт [E]."
     },
     "ShootTheMoon": {
-        "NAME": "Shoot The Moon",
-        "DESCRIPTION": "Remove a random buff from your target if it is not a boss врагу. Наносит !D! урона. NL Усиление  [E]  : Remove ВСЕМ buffs and Наносит !B! урона instead.",
+        "NAME": "Выстрелить в Луну",
+        "DESCRIPTION": "Снимает случ. полож. эффект с цели, если цель не Босс. Наносит !D! урона. NL Усиление  [E]  : Снимает ВСЕ полож. эффекты и наносит !B! урона вместо этого.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWWWWWWWWWW"
     },
     "StarDustReverie": {
         "NAME": "Stardust Reverie",
-        "DESCRIPTION": "Shuffle your hand into your draw pile, then Добавляет that many random cards into your hand. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Shuffle your hand into your draw pile, then Добавляет that many random Улучшенных cards to your hand. NL Сжигается."
+        "DESCRIPTION": "Вы сбрасываете все карты в стопку добора. NL Добавляет в руку случ. карту за каждую из них. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Вы сбрасываете все карты в стопку добора. NL Добавляет в руку случ. улучшенную карту за каждую из них. NL Сжигается."
     },
     "UltraShortWave": {
         "NAME": "Ultimate Shortwave",
-        "DESCRIPTION": "Даёт !B!  [E]  and !M! Заряд-up. Increase the energy and Заряд-up Даёт of this card by 1 for this combat.",
+        "DESCRIPTION": "Даёт !B! [E] и !M! Заряда. NL Increase the energy and Заряд-up Даёт of this card by 1 for this combat.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "MillisecondPulsars": {
         "NAME": "Millisecond Pulsars",
-        "DESCRIPTION": "Усиление effects cost no  [E]  this combat.",
-        "UPGRADE_DESCRIPTION": "Начальная. NL Усиление effects cost no  [E]  this combat."
+        "DESCRIPTION": "Усиления не стоят [E] в этом бою.",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Усиления не стоят [E] в этом бою."
     },
     "Spark": {
-        "NAME": "искра",
+        "NAME": "Искра",
         "DESCRIPTION": "Наносит !D! урона. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "UpSweep": {
         "NAME": "Rising Sweep",
-        "DESCRIPTION": "Наносит !D! урона. Даёт !M! Заряд-up.",
+        "DESCRIPTION": "Наносит !D! урона. Даёт !M! Заряда.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "GuidingStar": {
-        "NAME": "Guiding Star",
-        "DESCRIPTION": "Оставляется .  NL  If the card is in your hand at the start of turn,Даёт  [E]  .",
+        "NAME": "Путеводная звезда",
+        "DESCRIPTION": "Оставляется. NL If the card is in your hand at the start of turn,Даёт  [E]  .",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "OrrerysSun": {
@@ -211,7 +211,7 @@
     },
     "ShootingEcho": {
         "NAME": "Shooting Echo",
-        "DESCRIPTION": "Наносит !D! урона. NL Сжигается a card.  NL If the card you Сжигается is Ожог ,Кладет this card back to your hand.",
+        "DESCRIPTION": "Наносит !D! урона. NL Сжигает карту. NL Вы кладёте эту карту обратно в руку, если сожжённая карта является *Ожогом.",
         "UPGRADE_DESCRIPTION": "Сжигается a card. Добавляет an Улучшенных Shooting Echo to your hand. NL Наносит !D! урона. NL Сжигается."
     },
     "EnergyFlow": {
@@ -220,13 +220,13 @@
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "PowerUp": {
-        "NAME": "Upgrade!",
-        "DESCRIPTION": "ВСЕМ Attacks in your hand Наносит !M! additional урона this combat.",
+        "NAME": "Обновить!",
+        "DESCRIPTION": "ВСЕ Атаки в руке наносят !M! доп. урона в этом бою.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "WitchLeyline": {
         "NAME": "Witch Leyline",
-        "DESCRIPTION": "Наносит !D! урона. Добавляет !M! Ожог to your hand.",
+        "DESCRIPTION": "Наносит !D! урона. Добавляет !M! *Ожог в руку.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "JA": {
@@ -241,11 +241,11 @@
     },
     "DragonMeteor": {
         "NAME": "Dragon Meteor",
-        "DESCRIPTION": "Наносит !B! урона. NL Наносит an additional !M! урона for each card in your Сжигается pile.",
+        "DESCRIPTION": "Наносит !B! урона. NL Наносит доп. !M! урона за каждую карту в сгоревшей стопке.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "EventHorizon": {
-        "NAME": "Event Horizon",
+        "NAME": "Горизонт событий",
         "DESCRIPTION": "!M! time(s) each turn, when you activate an Усиление effect, you can Кладет an Attack from your discard pile into your hand.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
@@ -271,27 +271,27 @@
     },
     "FluorensentBeam": {
         "NAME": "Fluorensent Beam",
-        "DESCRIPTION": "ВСЕМ врагов Отнимает !D! ОЗ. NL Усиление  [E]  [E]  : Наносит  !B! instead.",
+        "DESCRIPTION": "ВСЕ враги теряют !D! ОЗ. NL Усиление  [E]  [E]  : Теряют !B! вместо этого.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "WitchOfGreed": {
-        "NAME": "Witch Of Greed",
-        "DESCRIPTION": "At the end of combat, Даёт !M! gold.  NL  Усиление  [E] : Also Даёт a random зелье.",
+        "NAME": "Ведьма жадности",
+        "DESCRIPTION": "Даёт !M! золота в конце боя.  NL  Усиление  [E] : Даёт случ. зелье.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "TreasureHunter": {
-        "NAME": "TreasureHunter",
-        "DESCRIPTION": "Наносит !D! урона. NL If this kills a non-minion врагу in an Elite or Boss room, at the end of combat, Даёт 1 random реликвия. NL Сжигается.",
+        "NAME": "Охотник за сокровищами",
+        "DESCRIPTION": "Наносит !D! урона. NL В конце боя даёт случайную реликвию, если Казнит врага в комнате Элиты или босса. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "Robbery": {
-        "NAME": "Robbery",
-        "DESCRIPTION": "Наносит !D! урона. Даёт gold equal to unblocked урона dealt. NL Сжигается. NL Усиление [E] : Double the gold you Даёт.",
+        "NAME": "Ограбление",
+        "DESCRIPTION": "Наносит !D! урона. Даёт золота, равного кол-ву нанесённого урона по ОЗ врага. NL Сжигается. NL Усиление [E] : Удваивает получаемое золото.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "6A": {
-        "NAME": "6A",
-        "DESCRIPTION": "Наносит !D! урона. Даёт Защиты equal to the unblocked урона dealt.",
+        "NAME": "6А",
+        "DESCRIPTION": "Наносит !D! урона. Даёт Защиту, равную кол-ву нанесённого урона по ОЗ врага.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "CircumpolarStar": {
@@ -344,22 +344,22 @@
         "UPGRADE_DESCRIPTION": "Whenever you Даёт Защиты, Добавляет an Улучшенных искра to your hand."
     },
     "ChargeUpSpray": {
-        "NAME": "Заряд-Up Spray",
-        "DESCRIPTION": "Наносит !D! урона. NL If this card consumes Заряд-up, Даёт [E] and draw !M! cards.",
+        "NAME": "Зарядный спрей",
+        "DESCRIPTION": "Наносит !D! урона. NL Даёт [E] и вы берёте !M! карт, если эта карта поглощает Заряд.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "EnergyRecoil": {
         "NAME": "Energy Recoil",
-        "DESCRIPTION": "Даёт Защиты equal to your Заряд-up.",
-        "UPGRADE_DESCRIPTION": "Даёт Защиты equal to your Заряд-up + 3.",
+        "DESCRIPTION": "Даёт Защиты, равную кол-ву Заряда.",
+        "UPGRADE_DESCRIPTION": "Даёт Защиты, равную кол-ву Заряда + 3.",
         "EXTENDED_DESCRIPTION": [
-            " NL (Gain ",
-            " Block.)"
+            " NL (Дает ",
+            " Защиты.)"
         ]
     },
     "GalacticHalo": {
-        "NAME": "Galactic Halo",
-        "DESCRIPTION": "Даёт !B! Защиты and !M! Заряд-up.",
+        "NAME": "Галактическое гало",
+        "DESCRIPTION": "Даёт !B! Защиты и !M! Заряда.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "ManaConvection": {
@@ -441,12 +441,12 @@
     },
     "ExplosiveMarionette": {
         "NAME": "Explosive Marionette",
-        "DESCRIPTION": " Оставляется. Наносит !D! урона. NL Усиление [E] : Наносит double урона. Сжигается.",
+        "DESCRIPTION": "Оставляется. Наносит !D! урона. NL Усиление [E] : Наносит двойной урон. Сжигается.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "OpticalCamouflage": {
         "NAME": "Optical Camouflage",
-        "DESCRIPTION": " Оставляется. Даёт !B! Защиты. NL Усиление [E] : Даёт double amount. Сжигается.",
+        "DESCRIPTION": "Оставляется. NL Даёт !B! Защиты. NL Усиление [E] : Даёт удвоенное количество защиты. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "FiveColoredTalisman": {
@@ -471,12 +471,12 @@
     },
     "NebulaRing": {
         "NAME": "Nebula Ring",
-        "DESCRIPTION": "Даёт !M! Панцирь Armor whenever you Отнимает Защиты from врагов or cards.",
+        "DESCRIPTION": "Даёт !M! Панциря, когда вы теряете Защиту от карт или врагов.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "SprinkleStarSeal": {
         "NAME": "Sprinkle Star Seal",
-        "DESCRIPTION": "Накладывает 99 Weak. NL Сжигается.",
+        "DESCRIPTION": "Накладывает 99 Слабости. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "Wraith": {

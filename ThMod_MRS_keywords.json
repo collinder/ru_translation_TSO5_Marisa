@@ -48,7 +48,7 @@
       "NAMES": [
           "Заряд",
 	  "заряд",
-	  "chargeup",
+	  "заряда",
 	  "ChargeUp"
       ],
       "DESCRIPTION":"For every #b8 stacks,double the damage of your next Attack."
