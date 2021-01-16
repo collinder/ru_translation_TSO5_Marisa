@@ -35,10 +35,10 @@
         ]
     },
     "RampagingMagicTools": {
-        "NAME": "Rampaging Magic Tool",
-        "FLAVOR": "It's been so long since anyone last used them. Who knows what could happen?",
+        "NAME": "Неистовый магоприбор",
+        "FLAVOR": "Её так давно не использовали. Кто знает, что может произойти?",
         "DESCRIPTIONS": [
-            "Gain [E] at the start of each turn. NL Apply a random debuff/buff ( #b2 #yFrail , #b2 #yWeak , #b2 #yVulnerable , #b3 #yPoison , #b8 #yCharge-up )to you at the start of each combat."
+            "Даёт [E] в начале вашего хода. NL Накладывает случ. эффект ( #b2 #yХрупкости , #b2 #yСлабости , #b2 #yУязвимости , #b3 #yЯда , #b8 #yЗаряда ) на вас в начале каждого боя."
         ]
     },
     "ExperimentalFamiliar": {
@@ -92,17 +92,17 @@
         ]
     },
     "AmplifyWand": {
-        "NAME": "Amplification Wand",
-        "FLAVOR": "A wand that seems to not be used often.",
+        "NAME": "Жезл усиления",
+        "FLAVOR": "Жезл, который явно не часто используется.",
         "DESCRIPTIONS": [
             "Whenever you activate an #yAmplify effect, gain #b4  #yblock ."
         ]
     },
     "CatCart": {
         "NAME": "Cat Cart",
-        "FLAVOR": "When you fВСЕМ in battle,your loyal kitties will bring you back to life with this.",
+        "FLAVOR": "Когда вы падете вы бою, ваши королевские кошечки вернут вас к жизни при помощи этой cart.",
         "DESCRIPTIONS": [
-            "Gain 1 charge when you climb a floor.When you would die,consume all charges and heal #g4 hp for each of them."
+            "Получает 1 Заряд, когда вы заходите в комнату. Вместо того, чтобы умереть, вы поглощаете все заряды и восполняете #g4 ОЗ за каждый заряд."
         ]
     },
     "BigShroomBag": {

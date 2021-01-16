@@ -1,8 +1,8 @@
 {
     "DarkMatterPower": {
-        "NAME": "Dark Matter",
+        "NAME": "Тёмная материя",
         "DESCRIPTIONS": [
-            "You can no longer play #yDark #yMatter this turn.",
+            "Вы не можете разыгрывать #yТёмную #yматерию в этом ходу.",
             ""
         ]
     },

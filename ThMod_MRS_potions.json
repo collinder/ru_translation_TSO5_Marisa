@@ -1,21 +1,21 @@
 {
     "ShroomBrew": {
-        "NAME": "Shroom Brew",
+        "NAME": "Грибная настойка",
         "DESCRIPTIONS": [
-            " Exhaust a card. NL The effect of this potion depends on the type of the card you Exhausted.",
-            "Details",
-            "Attack : Fear Potion ; NL Skill : Weak Potion ; NL Power : Poison Potion ; NL Status : Fire Potion ; NL Curse : Smoke Bomb ."
+            " Сжигает карту. NL Эффект зелья зависит от типа сожжёеной карты.",
+            "Подробности",
+            "Атака : Зелье ужаса ; NL Навык : Зелье слабости ; NL Талант : Зелье отравления ; NL Статус : Огненное зелье ; NL Проклятье : Дымовая шашка ."
         ]
     },
     "BottledSpark": {
-        "NAME": "Bottled искра",
+        "NAME": "Закупоренная искра",
         "DESCRIPTIONS": [
-            "Add #b",
-            " #ySpark to your hand."
+            "Добавляет #b",
+            " #yИскры в руку."
         ]
     },
     "StarNLove": {
-        "NAME": "Star & Love",
+        "NAME": "Звезды & Любовь",
         "DESCRIPTIONS": [
             "You do not need to pay extra Cost for Amplify effect.Gain #",
             " #yCharge-up."
