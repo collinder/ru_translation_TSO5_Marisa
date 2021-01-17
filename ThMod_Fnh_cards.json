@@ -142,7 +142,7 @@
     },
     "UpSweep": {
         "NAME": "Смести",
-        "DESCRIPION": "Наносит !D! урона. Даёт !M! Заряда.",
+        "DESCRIPTION": "Наносит !D! урона. Даёт !M! Заряда.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "GuidingStar": {
