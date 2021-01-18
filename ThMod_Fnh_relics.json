@@ -21,10 +21,10 @@
         ]
     },
     "MagicBroom": {
-        "NAME": "Magic Broom",
-        "FLAVOR": "Мариса always travels on her flying broom.",
+        "NAME": "Ведьминская метла",
+        "FLAVOR": "Мариса всегда путешствует на своей летающией метле.",
         "DESCRIPTIONS": [
-            "Every time you play #b3 cards that cost 0, draw 1 card."
+            "Вы берёте 1 карту, когда в одном ходу разыгрываются #b3 карты со стоимостью 0."
         ]
     },
     "AmpWand": {
@@ -70,8 +70,8 @@
         ]
     },
     "ShroomBag": {
-        "NAME": "Shroom Bag",
-        "FLAVOR": "ВСЕМ witches have an abnormal enthusiasm for mushrooms... Or is it just Мариса...?",
+        "NAME": "Сумочка с мухоморами",
+        "FLAVOR": "Все ведьмы имеют ненормальное увлечение мухоморами... Или это одна Мариса...?",
         "DESCRIPTIONS": [
             "Upon pickup, obtain 2 #yParasite. Parasite cards can now be played. Playing a #yParasite will heal #b2 HP and draw a card, then Exhausts it."
         ]
