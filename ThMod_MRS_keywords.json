@@ -17,11 +17,11 @@
       },
     {
       "NAMES": [
-        "true Magicians",
+        "истинные маги",
         "true magicians",
         "True Magicians"
       ],
-      "DESCRIPTION": "Perhaps Marisa is not one though."
+      "DESCRIPTION": "Может быть Мариса не единственная."
     },
     {
       "NAMES": [
@@ -51,7 +51,7 @@
 	  "заряда",
 	  "ChargeUp"
       ],
-      "DESCRIPTION":"For every #b8 stacks,double the damage of your next Attack."
+      "DESCRIPTION":" every #b8 stacks,double the damage of your next Attack."
     },
     {
       "NAMES": [
@@ -67,7 +67,7 @@
     },
     {
       "NAMES": [
-        "Wraith","wraith"
+        "Призрак","призрак"
       ],
       "DESCRIPTION":"Wraith will exhaust a random card in your hand after the start of your turn."
     },

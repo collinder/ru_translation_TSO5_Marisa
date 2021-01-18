@@ -16,7 +16,7 @@
         "DESCRIPTION": "Сжигает половину карт в стопке добора и стопке сброса. NL Даёт по [E] и вы берёте по 1 карте за каждые сожжёеные !M! карты. NL Сжигается."
     },
     "BlazingStar": {
-        "NAME": "Blazing Star",
+        "NAME": "Пылающая звезда",
         "DESCRIPTION": "Наносит !B! урона. Наносит по !M! доп. урона за КАЖДЫЙ ожог в руке. NL Усиление  [E]  : Наносит двойной урон. "
     },
     "DarkSpark": {
@@ -39,7 +39,7 @@
         "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. Сжигается. NL Усиление  [E]  : Вы кладёте выбранную карту из стопки сброса в руку."
     },
     "EscapeVelocity": {
-        "NAME": "Escape Velocity",
+        "NAME": "Вторая космическая",
         "DESCRIPTION": "Вы берёте 2 доп. карты и добавляете в руку *Ожог в начале каждого вашего хода.",
         "UPGRADE_DESCRIPTION": "Начальная. NL Вы берёте 2 доп. карты и добавляете в руку *Ожог в начале каждого вашего хода."
     },
@@ -88,7 +88,7 @@
         "DESCRIPTION": "Даёт !B! Защиты. Вы берёте 1 карту. NL ВСЕ Атаки в руке наносят !M! доп. урона в этом бою."
     },
     "NonDirectionalLaser": {
-        "NAME": "Non-Directional Laser",
+        "NAME": "Ненаправленный лазер",
         "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам NL Наносит !D! урона случ. врагу."
     },
     "Occultation": {
@@ -152,7 +152,7 @@
     },
     "OrrerysSun": {
         "NAME": "Солнечная система",
-        "DESCRIPTION": "Даёт !M! Защиты, когда вы используете Заряд.",
+        "DESCRIPTION": "Даёт !M! Защиты, когда вы поглощаете Заряд.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "ChargingUp": {
@@ -225,14 +225,14 @@
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "WitchLeyline": {
-        "NAME": "Силовой луч",
+        "NAME": "Ведьмин луч",
         "DESCRIPTION": "Наносит !D! урона. Добавляет !M! *Ожог в руку.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "JA": {
         "NAME": "Warming Up",
-        "DESCRIPTION": "Наносит !D! урона. Добавляет *Смести, *Искру и *Силовой *луч в руку.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет Улучшенные *Смести, *Искру и *Силовой *луч в руку."
+        "DESCRIPTION": "Наносит !D! урона. Добавляет *Смести, *Искру и *Ведьмин *луч в руку.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. Добавляет Улучшенные *Смести, *Искру и *Ведьмин *луч в руку."
     },
     "AbsoluteMagnitude": {
         "NAME": "Безграничная величина",
@@ -246,13 +246,13 @@
     },
     "EventHorizon": {
         "NAME": "Горизонт событий",
-        "DESCRIPTION": "!M! time(s) each turn, when you activate an Усиление effect, you can Кладет an Attack from your discard pile into your hand.",
+        "DESCRIPTION": "!M! раз(а) каждый ход, вы можете положить Атаку из стопки сброса в руку, когда вы активируете эффект Усиления.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "PulseMagic": {
         "NAME": "Pulse Magic",
-        "DESCRIPTION": "Next turn, Даёт  [E]  . Усиление [E]  : Усиление effects cost no [E] this turn.",
-        "UPGRADE_DESCRIPTION": "Next turn, Даёт [E]  [E]  . Усиление [E]  : Усиление effects cost no [E] this turn."
+        "DESCRIPTION": "Даёт [E] в след. ходу. NL Усиление [E]  : Эффекты Усиления не стоят [E] в этом ходу.",
+        "UPGRADE_DESCRIPTION": "Даёт [E] [E] в след. ходу. NL Усиление [E]  : Эффекты Усиления не стоят [E] в этом ходу."
     },
     "DC": {
         "NAME": "66С",
@@ -276,7 +276,7 @@
     },
     "WitchOfGreed": {
         "NAME": "Ведьма жадности",
-        "DESCRIPTION": "Даёт !M! золота в конце боя.  NL  Усиление  [E] : Даёт случ. зелье.",
+        "DESCRIPTION": "Даёт !M! золота в конце боя. NL  Усиление  [E] : Даёт случ. зелье.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "TreasureHunter": {
@@ -326,10 +326,10 @@
     },
     "DarkMatter": {
         "NAME": "Тёмная материя",
-        "DESCRIPTION": "Can only be played once per turn. NL Shuffle 2 copies of this card into your draw pile. Draw 1 card. When this card is Exhausted, Даёт !B! Защиты. NL Ethereal.",
-        "UPGRADE_DESCRIPTION": "Can only be played once per turn. NL Shuffle 2 copies of this card into your draw pile. Draw 1 card. When this card is Exhausted, Даёт !B! Защиты. NL Ethereal .",
+        "DESCRIPTION": "Эфирная. NL Можно разыграть только один раз в ходу. NL Добавляет 2 свои копии в стопку добора. Вы берёте 1 карту. Даёт !B! Защиты, когда Сжигается.",
+        "UPGRADE_DESCRIPTION": "Эфирная. NL Можно разыграть только один раз в ходу. NL Добавляет 2 свои копии в стопку добора. Вы берёте 1 карту. Даёт !B! Защиты, когда Сжигается.",
         "EXTENDED_DESCRIPTION": [
-            "I can't play Dark Matter again this turn.",
+            "Я не могу еще раз разыграть Тёмную матерю в этом ходу.",
             ""
         ]
     },
@@ -373,8 +373,8 @@
         "UPGRADE_DESCRIPTION": "Вы разыгрываете X случ. Улучшенных Атак."
     },
     "StarBarrage": {
-        "NAME": "Star Barrage",
-        "DESCRIPTION": "Наносит !D! урона !M! раза. NL Every time this card is played, it Наносит урона 1 additional time for this combat.",
+        "NAME": "Обстрел звёздами",
+        "DESCRIPTION": "Наносит !D! урона !M! раз(а). NL Эта карта наносит урон 1 доп. раз в этом бою.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "AFriendsGift": {
@@ -383,9 +383,10 @@
         "UPGRADE_DESCRIPTION": "Оставляется. Наносит !D! урона. Increase урона by 2 when your turn starts. Сжигается. NL Усиление  [E]  : Наносит !B! урона instead, don't Сжигается."
     },
     "BinaryStars": {
-        "NAME": "Binary Stars",
-        "DESCRIPTION": "Choose to Добавляет either Black Flare Star or White Dwarf to your hand. NL Усиление  [E]  : Добавляет both to your hand instead.",
-        "UPGRADE_DESCRIPTION": "Choose to Добавляет and upgrade either Black Flare Star or White Dwarf to your hand. NL Усиление  [E]  : Добавляет both to your hand instead."
+        "NAME": "Двойные звёзды",
+        "DESCRIPTION": "Выберите *Чёрную *звезду или *Белый *карлик. NL Добавляет выбранную карту в руку. NL Усиление  [E]  : Добавляет обе карты в руку вместо этого.",
+        "UPGRADE_DESCRIPTION": "Выберите *Чёрную *звезду или *Белый *карлик. NL Добавляет выбранную Улучшенную карту в руку. NL Усиление  [E]  : Добавляет обе Улучшенные карты в руку вместо этого.",
+        "UPGRADE_DESCRIPTION": ""
     },
     "CollectingQuirk": {
         "NAME": "Сбор причуд",
@@ -402,7 +403,7 @@
         "UPGRADE_DESCRIPTION": "Сжигает 1 карту. Вы бросаете зелье в цель. NL Типе зелья зависит от типа сожженой карты."
     },
     "PropBag": {
-        "NAME": "Portable Prop Bag",
+        "NAME": "Карманная реликвия",
         "DESCRIPTION": "Даёт случ. реликвию. NL Отнимает выданную реликвию в конце боя. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Начальная. NL Даёт случ. реликвию. NL Отнимает выданную реликвию в конце боя. NL Сжигается."
     },
@@ -435,9 +436,9 @@
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "SillyJoke": {
-        "NAME": "Mana Phantom",
-        "DESCRIPTION": "Cast a Magic that is only shown to true Magicians. NL Сжигается. NL Ethereal.",
-        "UPGRADE_DESCRIPTION": "Ethereal. NL Cast a splendid Magic that is only shown to true Magicians. NL Сжигается."
+        "NAME": "Манный призрак",
+        "DESCRIPTION": "Эфирная. NL Сотворить Магию, которую показывают только истинным Магам. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Эфирная. NL Сотворить Магию, которую показывают только истинным Магам. NL Сжигается."
     },
     "ExplosiveMarionette": {
         "NAME": "Взрывная марионетка",
@@ -461,7 +462,7 @@
     },
     "Exhaustion_MRS": {
         "NAME": "Истощение",
-        "DESCRIPTION": "Неиграбельная. NL Вы не сможете получать или использовать Заряд, пока эта карта в руке.",
+        "DESCRIPTION": "Неиграбельная. NL Вы не сможете получать или поглощать Заряд, пока эта карта в руке.",
         "UPGRADE_DESCRIPTION": "WWWWWWWWWWW"
     },
     "UltimateShortwave": {

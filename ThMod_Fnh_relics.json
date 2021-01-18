@@ -1,23 +1,23 @@
 {
     "MiniHakkero": {
-        "NAME": "Mini-Hakkero",
-        "FLAVOR": "A mini-Eight Trigram Furnace, a gift from Rinosuke when Мариса left her parents.",
+        "NAME": "Мини-Хаккеро",
+        "FLAVOR": "Мини-реактор Восьми Триграмм, подарок Ринноске, когда Мариса перестала жить с родителями.",
         "DESCRIPTIONS": [
-            "Whenever you play a card, gain #b1  #yCharge-up ."
+            "Даёт #b1 #yЗаряда при разыгрывании карты."
         ]
     },
     "BewitchedHakkero": {
-        "NAME": "Bewitched Hakkero",
-        "FLAVOR": "Its firepower is on a new level, but is it ok to use a bewitched tool?",
+        "NAME": "Заколдованное Хаккеро",
+        "FLAVOR": "Огневая мощь вышла на новый уровень, но разве нормально использовать заколдованное орудие?",
         "DESCRIPTIONS": [
-            "Replaces #rMini-Hakkero . NL Whenever you play a card , gain #b1 #yCharge-up . NL gain 1 more if it is a #ySpark card."
+            "Заменяет #rМини-Хаккеро . NL Даёт #b1 #yЗаряда при разыгрывании карты. NL Даёт #b1 доп. #yЗаряда при разыгрывании #yИскры."
         ]
     },
     "MagicArmor": {
         "NAME": "Black Magic Shield",
-        "FLAVOR": "In fact I don't know what the hell is this,but since the Designer Кладет it in the Plan,here it is.-programmer",
+        "FLAVOR": "Честно говоря, я не знаю, что это за хрень, но раз Дизайнер поместил её в План, она будет тут.-программист",
         "DESCRIPTIONS": [
-            "Whenever you draw a Status or Curse, gain 5 Block ."
+            "Даёт #b5 #yЗащиты, когда вы берёте #yСтатус или #yПроклятие."
         ]
     },
     "MagicBroom": {
@@ -28,10 +28,10 @@
         ]
     },
     "AmpWand": {
-        "NAME": "Усиление Wand",
-        "FLAVOR": "A Wand seems to not be used often.",
+        "NAME": "Жезл усиления",
+        "FLAVOR": "Жезл, который явно не часто используется.",
         "DESCRIPTIONS": [
-            "Every time you activate 3 #yAmplify effects, gain [E]  [E] ."
+            "Даёт [E]  [E] каждый раз при активации #b3 эффектов #yУсиления."
         ]
     },
     "RampagingMagicTools": {
@@ -42,74 +42,74 @@
         ]
     },
     "ExperimentalFamiliar": {
-        "NAME": "Experimental Familiar",
-        "FLAVOR": "A Familiar looks just like a shiny orb. Not very powerful, but it will surely help you a lot.",
+        "NAME": "Экспериментальный фамильяр",
+        "FLAVOR": "Фамильяр, который выглядит как блестящий шар. Не очень могущественнен, но точно сильно поможет.",
         "DESCRIPTIONS": [
-            "At the start of each turn, add 1 #ySpark to your hand. NL At the start of combat, you can choose #b1 from #b3 random cards. It costs 0 this turn."
+            "Добавляет 1 #yИскру в руку в начале каждого хода. NL В начале боя, выберите #b1 из #b3 случ. карт. В этом ходу она стоит 0."
         ]
     },
     "BreadOfAWashokuLover": {
         "NAME": "Bread Of A Washoku Lover",
-        "FLAVOR": "\"Can you remember how many slices of bread you have eaten until now?\"\"Thirteen. I prefer Japanese food.\"",
+        "FLAVOR": "\"Можешь ли ты вспомнить, сколько  ломтиков хлеба ты съел в жизни?\"\"Тринадцать. Я предпочитаю японскую еду.\"",
         "DESCRIPTIONS": [
-            "Heal 1 hp whenever you exhaust a #yStatus or a #yCurse. NL When triggered 13 times, you gain #b13 max HP,and this relic no longer works."
+            "Восполняет  #b1 ОЗ, когда #yСжигается #yСтатус или #yПроклятие. NL Повышает Макс. ОЗ на #b13, и эта реликвия больше не работает, когда использована #13 раз."
         ]
     },
     "SimpleLauncher": {
-        "NAME": "Simple Launcher",
-        "FLAVOR": "A flashlight is a flashlight,no matter how it is called...",
+        "NAME": "Простое пусковое устройство",
+        "FLAVOR": "Фонарик это просто фонарик, как его ни назови...",
         "DESCRIPTIONS": [
-            "Reduce your #yCharge-up consumption threshold value from #b8 to #b6 ."
+            "Уменьшает предел поглощения #yЗаряда с #b8 до #b6."
         ]
     },
     "HandmadeGrimoire": {
-        "NAME": "Handmade Grimoire",
-        "FLAVOR": "A notebook full of experiment records and magic material recipes;just how Мариса develops her Magics.",
+        "NAME": "Кустарный гримуар",
+        "FLAVOR": "Тетрадь полная записей экспериментов и рецептов магических материалов; так Мариса разрабатывает свою магию.",
         "DESCRIPTIONS": [
-            "At the start of battle, for every 15 cards in your master deck, gain [E] and draw a card."
+            "За каждые 15 карт в колоде, вы получаете по [E] и берёте по 1 карте в начале боя."
         ]
     },
     "ShroomBag": {
-        "NAME": "Сумочка с мухоморами",
+        "NAME": "Мешочек с мухоморами",
         "FLAVOR": "Все ведьмы имеют ненормальное увлечение мухоморами... Или это одна Мариса...?",
         "DESCRIPTIONS": [
-            "Upon pickup, obtain 2 #yParasite. Parasite cards can now be played. Playing a #yParasite will heal #b2 HP and draw a card, then Exhausts it."
+            "При получении даёт 2 #yПаразита. Позволяет разыгрывать #yПаразитов - они #yСжигаются, восполняют #b2 ОЗ и вы берёте 1 карту."
         ]
     },
     "Cape": {
-        "NAME": "Cape",
-        "FLAVOR": "Мариса always takes whatever she wants,and this cape will surely help her doing so.",
+        "NAME": "Накидка",
+        "FLAVOR": "Мариса берёт всё что хочет, и эта накидка точно поможет ей в этом.",
         "DESCRIPTIONS": [
-            "Whenever you enter a shop room,earn some random combat rewards.",
-            " use(s) left. NL You can take the first merchandise in a shop for free."
+            "Даёт случ. боевую награду при каждом посещении магазина.",
+            " использование(й) осталось. NL Вы можете взять первый товар в магазине бесплатно."
         ]
     },
     "SproutingBranch": {
-        "NAME": "Sprouting Branch",
-        "FLAVOR": "The dead branch just come to life in Marisa's hand,how poetic.",
+        "NAME": "Проросшая ветка",
+        "FLAVOR": "Сухая ветка ожила в руке Марисы, как поэтично.",
         "DESCRIPTIONS": [
-            "At the start of combat, gain #b5 #yRegen ."
+            "Даёт #b5 #yРегенерации в начале боя."
         ]
     },
     "AmplifyWand": {
         "NAME": "Жезл усиления",
         "FLAVOR": "Жезл, который явно не часто используется.",
         "DESCRIPTIONS": [
-            "Whenever you activate an #yAmplify effect, gain #b4  #yblock ."
+            "Даёт #b4 #yЗащиты за каждый активированный эффект #yУсиления."
         ]
     },
     "CatCart": {
-        "NAME": "Cat Cart",
-        "FLAVOR": "Когда вы падете вы бою, ваши королевские кошечки вернут вас к жизни при помощи этой cart.",
+        "NAME": "Кошачья тележка",
+        "FLAVOR": "Когда вы падете вы бою, ваши королевские кошечки вернут вас к жизни при помощи этой тележки.",
         "DESCRIPTIONS": [
             "Получает 1 Заряд, когда вы заходите в комнату. Вместо того, чтобы умереть, вы поглощаете все заряды и восполняете #g4 ОЗ за каждый заряд."
         ]
     },
     "BigShroomBag": {
-        "NAME": "Big Shroom Bag",
-        "FLAVOR": "A large version of shroom bag.",
+        "NAME": "Большой мешочек с мухоморами",
+        "FLAVOR": "Увеличенная версия мешочка с мухоморами.",
         "DESCRIPTIONS": [
-            "Replaces #rShroom #rBag . NL Parasite cards can now be played. Playing a #yParasite will heal #b3 HP and draw #b2 card, then Exhausts it."
+            "Заменяет #rМешочек #rс #rмухоморами . NL Позволяет разыгрывать #yПаразитов - они #yСжигаются, восполняют #b3 ОЗ и вы берёте 2 карты."
         ]
     },
     "WWWWWWWWWWWW": {
