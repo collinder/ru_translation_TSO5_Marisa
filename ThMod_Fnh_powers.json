@@ -104,29 +104,29 @@
     "MPPower": {
         "NAME": "Max Power",
         "DESCRIPTIONS": [
-            "Your damage is multipled by  #b",
-            " this turn."
+            "Ваши Атаки наносят в #b",
+            " раз урона больше в этом ходу."
         ]
     },
     "EnergyFlowPower": {
-        "NAME": "Energy Flow",
+        "NAME": "Поток энергии",
         "DESCRIPTIONS": [
-            "At the end of your turn, gain  #b",
-            " #yCharge-up ."
+            "Даёт #b",
+            " #yЗаряда в начале вашего хода ."
         ]
     },
     "PulseMagicPower": {
         "NAME": "Pulse Magic",
         "DESCRIPTIONS": [
-            "You don't need to pay  [E]  to activate #yAmplify effects this turn.",
+            "Эффекты #yУсиления не стоят [E] в этом ходу..",
             "WWWWWWWWWWW"
         ]
     },
     "SingularityPower": {
-        "NAME": "Singualrity",
+        "NAME": "Сингулярность",
         "DESCRIPTIONS": [
-            "Whenever you play a card that costs 0 , a random #yAttack in your hand deals #b",
-            " additional damage this combat."
+            "Увеличивает урон случ. #yАтаки в руке на #b",
+            " , когда вы разыгрываете карту с ценой 0."
         ]
     },
     "WitchOfGreedGold": {
@@ -146,37 +146,37 @@
     "OneTimeOffPlusPower": {
         "NAME": "One Time Off",
         "DESCRIPTIONS": [
-            "You won't trigger #yAmplify and #yCharge-up this turn.",
+            "Вы не можете активировать эффекты #yУсиления и поглощать #yЗаряд в этом ходу.",
             "WWWWWWWWWWW"
         ]
     },
     "OneTimeOffPower": {
         "NAME": "One Time Off",
         "DESCRIPTIONS": [
-            "You won't trigger #yAmplify this turn.",
+            "Вы не можете активировать эффекты #yУсиления в этом ходу.",
             "WWWWWWWWWWW"
         ]
     },
     "SuperNovaPower": {
         "NAME": "Сверхновая",
         "DESCRIPTIONS": [
-            "When you #yExhaust a #yBurn ,Gain  #b",
+            "Даёт #b",
             "When you #yExhaust a #yCurse or a #Status ,Gain  #b",
-            " #yStrength . NL You no longer take damage from #yBurn . NL #yExhaust you hand when your turn ends."
+            " #yСилы, когда #yСжигается #yОжог. NL Вы больше не получаете урон от #yОжогов. NL #yСжигает все карты в руке в конце вашего хода."
         ]
     },
     "CasketOfStarPlusPower": {
-        "NAME": "Casket Of Star",
+        "NAME": "Звёздная шкатулка",
         "DESCRIPTIONS": [
-            "Add  #b",
-            " #yupgraded #ySpark to your hand whenever you gain #yBlock ."
+            "Добавляет #b",
+            " #yУлучшенных #yИскр в руку, когда вы получаете #yЗащиту ."
         ]
     },
     "CasketOfStarPower": {
-        "NAME": "Casket Of Star",
+        "NAME": "Звёздная шкатулка",
         "DESCRIPTIONS": [
-            "Add  #b",
-            " #ySpark to your hand whenever you gain #yBlock ."
+            "Добавляет #b",
+            " #yИскр в руку, когда вы получаете #yЗащиту ."
         ]
     },
     "GalacticHaloPower": {
@@ -194,9 +194,9 @@
         ]
     },
     "PropBagPower": {
-        "NAME": "Portable Prop Bagr",
+        "NAME": "Переносной ящик безделушек",
         "DESCRIPTIONS": [
-            "When the battle ends,you'll lose  #y",
+            "В конце боя, вы потеряете #y",
             "."
         ]
     },
@@ -224,14 +224,14 @@
     "SatelIllusPower": {
         "NAME": "Satellite Illusion",
         "DESCRIPTIONS": [
-            "During your turn,when the number of cards in your draw pile increases, gain  #b",
+            "Когда количество карт в стопке добора увеличивается в течение вашего хода. даёт #b",
             " [E] ."
         ]
     },
     "GrandCrossPower": {
-        "NAME": "Amplified",
+        "NAME": "Усиленная",
         "DESCRIPTIONS": [
-            "You have activated an #yAmplify effect this turn.",
+            "Вы активировали эффект #yУсиления в этом ходу.",
             "WWWWWWWWWWW"
         ]
     },
@@ -245,35 +245,35 @@
     "TalismanPower": {
         "NAME": "Five-Colored Talisman",
         "DESCRIPTIONS": [
-            "At the start of your turn,add #b",
-            " random #ySkill to your hand."
+            "Добавляет в руку #b",
+            " случ. #yНавыков в начале вашего хода."
         ]
     },
     "Wraith": {
         "NAME": "Wraith",
         "DESCRIPTIONS": [
-            "#yExhaust a random card in your hand after the start of your turn.",
+            "#yСжигает случ. карту в руке в начале вашего хода.",
             "WWWWWWWWWWW"
         ]
     },
     "Nebula": {
         "NAME": "Nebula",
         "DESCRIPTIONS": [
-            "Gain ",
-            " Plated Armor whenever you lose Block from enemies or cards."
+            "Даёт ",
+            " #yПанциря, когда вы теряете #yЗащиту от карт или врагов."
         ]
     },
     "LimboContact": {
         "NAME": "Undead Contact",
         "DESCRIPTIONS": [
-            "Whenever you are attacked by this enemy, gain a stack of #yWraith . NL On death,apply #b1 #yWraith to you.",
+            "Вы получаете #yПризрачность, когда вы атакованы этим врагом . NL Накладывает при смерти #b1 #yПризрачности на вас.",
             "WWWWWWWWWWW"
         ]
     },
     "InfernoClaw": {
         "NAME": "Inferno Claw",
         "DESCRIPTIONS": [
-            "Whenever you receive attack damage from this enemy, add a #yBurn into your draw pile.",
+            "Добавляет #yОжог в стопку добора, когда вы теряете ОЗ от атак этого врага.",
             "WWWWWWWWWWW"
         ]
     },
