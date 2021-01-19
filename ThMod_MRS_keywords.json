@@ -5,13 +5,13 @@
         "усиление",
         "Amplify"
       ],
-      "DESCRIPTION": "Pay extra energy for its effect when you have enough  [E] ."
+      "DESCRIPTION": "Заплатите доп. энергией за эффект, когда у вас хватает [E] ."
     },
     {
       "NAMES": [
-          "сожжёеные",
-	  "сожжёную",
-	  "сожжёный"
+          "сожжённые",
+	  "сожжённую",
+	  "сожжённый"
       ],
       "DESCRIPTION": "Сжигаемые карты убираются из колоды до конца текущего боя."
       },
@@ -51,7 +51,7 @@
 	  "заряда",
 	  "ChargeUp"
       ],
-      "DESCRIPTION":" every #b8 stacks,double the damage of your next Attack."
+      "DESCRIPTION":"За каждые #b8 Заряда, удвойте урон вашей след. Атаки."
     },
     {
       "NAMES": [
@@ -67,9 +67,9 @@
     },
     {
       "NAMES": [
-        "Призрак","призрак"
+        "Приведение","привидение"
       ],
-      "DESCRIPTION":"Wraith will exhaust a random card in your hand after the start of your turn."
+      "DESCRIPTION":"Привидение Сожжёт случ. карту в руке в начале вашего хода."
     },
     {
       "NAMES": [

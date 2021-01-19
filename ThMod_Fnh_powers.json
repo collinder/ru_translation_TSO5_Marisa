@@ -10,8 +10,8 @@
         "NAME": "Вторая космическая",
         "DESCRIPTIONS": [
             "Вы берёте #b",
-            " доп. карт и добавляете в руку #b",
-            " #yОжог(а) в начале каждого вашго хода."
+            " доп. карт(ы) и добавляете в руку #b",
+            " #yОжог(а) в начале каждого вашего хода."
         ]
     },
     "EventHorizonPower": {
@@ -19,8 +19,8 @@
         "DESCRIPTIONS": [
             "Вы можете положить Атаку из стопки сброса в руку, когда вы активируете эффект Усиления, до #b",
             " раз(а) каждый ход.",
-            "( ",
-            " раз(а) осталось)"
+            " ( ",
+            " раз(а) осталось )"
         ]
     },
     "IllusionStarPower": {
@@ -31,7 +31,7 @@
         ]
     },
     "MilliPulsaPower": {
-        "NAME": "Millisecond Pulsars",
+        "NAME": "Мгновенные пульсары",
         "DESCRIPTIONS": [
             "Эффекты #yУсиления не стоят доп. [E] для активации.",
             ""
@@ -81,14 +81,14 @@
         ]
     },
     "OrrerysSunPower": {
-        "NAME": "Солнечная сисч",
+        "NAME": "Солнечная система",
         "DESCRIPTIONS": [
-            "Whenever you consume #yCharge-up, deal  #b",
-            " damage to all enemies."
+            "Когда вы поглощаете #yЗаряд, даёт #b",
+            " #yЗащиты."
         ]
     },
     "Charged": {
-        "NAME": "Charged!",
+        "NAME": "Заряженная!",
         "DESCRIPTIONS": [
             "Ваша след. Атака будет иметь увеличенный в #b",
             " раз урон"
@@ -102,7 +102,7 @@
         ]
     },
     "MPPower": {
-        "NAME": "Max Power",
+        "NAME": "Максимальная мощь",
         "DESCRIPTIONS": [
             "Ваши Атаки наносят в #b",
             " раз урона больше в этом ходу."
@@ -116,7 +116,7 @@
         ]
     },
     "PulseMagicPower": {
-        "NAME": "Pulse Magic",
+        "NAME": "Пульс магии",
         "DESCRIPTIONS": [
             "Эффекты #yУсиления не стоят [E] в этом ходу..",
             "WWWWWWWWWWW"
@@ -144,14 +144,14 @@
         ]
     },
     "OneTimeOffPlusPower": {
-        "NAME": "One Time Off",
+        "NAME": "Передышка",
         "DESCRIPTIONS": [
             "Вы не можете активировать эффекты #yУсиления и поглощать #yЗаряд в этом ходу.",
             "WWWWWWWWWWW"
         ]
     },
     "OneTimeOffPower": {
-        "NAME": "One Time Off",
+        "NAME": "Передышка",
         "DESCRIPTIONS": [
             "Вы не можете активировать эффекты #yУсиления в этом ходу.",
             "WWWWWWWWWWW"
@@ -180,14 +180,14 @@
         ]
     },
     "GalacticHaloPower": {
-        "NAME": "Galactic Halo",
+        "NAME": "Галактическое гало",
         "DESCRIPTIONS": [
             "At the end of your turn,gain  #b",
             " #yblock for each #yAttack you played this turn."
         ]
     },
     "ManaRampagePower": {
-        "NAME": "Mana Rampage",
+        "NAME": "Буйство маны",
         "DESCRIPTIONS": [
             "Your next #yAttack will be played  #b",
             " extra times this turn."
@@ -201,28 +201,28 @@
         ]
     },
     "UltraShortWavePower": {
-        "NAME": "Ultimate ShortWave",
+        "NAME": "Ультимативная коротковолновка",
         "DESCRIPTIONS": [
             "Your #yUltimate #yShortWave's effect is #yAmplified  #b",
             " times."
         ]
     },
     "DarkSparkPower": {
-        "NAME": "Dark искра",
+        "NAME": "Тёмная искра",
         "DESCRIPTIONS": [
             "Each card with 'Spark' in its name you play will grant you  #b",
             " additional #yCharge-up this turn."
         ]
     },
     "MagicChantPower": {
-        "NAME": "Magic Chant",
+        "NAME": "Магическая песнь",
         "DESCRIPTIONS": [
-            "Reduce the cost of  #b",
-            " next turn."
+            "Снижает цену  #b",
+            " в след. ходу."
         ]
     },
     "SatelIllusPower": {
-        "NAME": "Satellite Illusion",
+        "NAME": "Спутниковая иллюзия",
         "DESCRIPTIONS": [
             "Когда количество карт в стопке добора увеличивается в течение вашего хода. даёт #b",
             " [E] ."
@@ -236,42 +236,42 @@
         ]
     },
     "Diaspora": {
-        "NAME": "Diaspora",
+        "NAME": "Диаспора",
         "DESCRIPTIONS": [
             "At the end of turn,instantly kill this creature if its health is less than #b",
             " ."
         ]
     },
     "TalismanPower": {
-        "NAME": "Five-Colored Talisman",
+        "NAME": "Пятицветный талисман",
         "DESCRIPTIONS": [
             "Добавляет в руку #b",
             " случ. #yНавыков в начале вашего хода."
         ]
     },
     "Wraith": {
-        "NAME": "Wraith",
+        "NAME": "Привидение",
         "DESCRIPTIONS": [
             "#yСжигает случ. карту в руке в начале вашего хода.",
             "WWWWWWWWWWW"
         ]
     },
     "Nebula": {
-        "NAME": "Nebula",
+        "NAME": "Туманность",
         "DESCRIPTIONS": [
             "Даёт ",
             " #yПанциря, когда вы теряете #yЗащиту от карт или врагов."
         ]
     },
     "LimboContact": {
-        "NAME": "Undead Contact",
+        "NAME": "Контракт нежити",
         "DESCRIPTIONS": [
             "Вы получаете #yПризрачность, когда вы атакованы этим врагом . NL Накладывает при смерти #b1 #yПризрачности на вас.",
             "WWWWWWWWWWW"
         ]
     },
     "InfernoClaw": {
-        "NAME": "Inferno Claw",
+        "NAME": "Адский коготь",
         "DESCRIPTIONS": [
             "Добавляет #yОжог в стопку добора, когда вы теряете ОЗ от атак этого врага.",
             "WWWWWWWWWWW"

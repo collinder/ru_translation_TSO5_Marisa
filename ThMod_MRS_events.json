@@ -2,33 +2,33 @@
     "Mushrooms_MRS": {
         "NAME": "Мухоморы",
         "DESCRIPTIONS": [
-            "You give in to the unnatural desire to eat. As you consume mushroom after mushroom, you feel yourself entering into a daze and pass out. As you awake, you feel very odd. NL You #gHeal #b25% of your HP, but you also get #rinfected.",
-            "#r@Ambushed!!@ NL Rodents infested by the mushrooms appear out of nowhere!",
-            "You enter a corridor full of #b~hypnotizing~ #b~colored~ #b~mushrooms.~ NL These mushrooms are nothing like any other ones you've seen before. NL You want to collect some of them, but feel oddly compelled to eat #b~one...~"
+            "Вы поддаётесь непреодолимому голоду. Поглощая грибы один за другим, вы чувствуете, как входите в транс, а затем теряете сознание. После пробуждения вы ощущаете себя очень странно. NL Вы #gвылечили #b25% ОЗ, но также #rзаразились.",
+            "#r@Засада!@ NL Из ниоткуда появляются заражённые грибами грызуны!",
+            "Вы входите в коридор, полный #b~завораживающих~ #b~цветных~ #b~грибов.~ NL К сожалению, вы не сильны в микологии, поэтому затрудняетесь определить их вид. NL Вы хотите собрать пару грибов, но чувствуете непреодолимое желание скушать #b~гриб...~"
         ],
         "OPTIONS": [
-            "[Collect] #rAnger #rthe #rMushrooms.",
-            "[Eat] #gHeal #g",
-            " #gHP. #rBecome #rCursed #r- #rParasite.",
-            "[Fight]",
-            "[Leave]"
+            "[Собрать] #rРазозлить #rгрибы.",
+            "[Съесть] #gВосполнить #g",
+            " #gОЗ. #rПолучить #rПроклятие #r- #rПаразит.",
+            "[Драться]",
+            "[Уйти]"
         ]
     },
     "OrinTheCat": {
-        "NAME": "BlackCat",
+        "NAME": "Чёрный кот",
         "DESCRIPTIONS": [
-            "A #yblack #bcat appearing out of nowhere stopped in front of you,and blocked your path. NL The cat reeks of #r~Death~ #r~and~ #r~Misfortune~ ,and when it looks at you,you feel chill in your spine. NL It meows at you,attempting to draw your attention.",
-            "Seems the cat doesn't want to let you walk away like that.It showed its claws and fangs and rushed over to you...",
-            "The cat seems satisfied and ran away,but you feel the smell of #r~Death~ #r~and~ #r~Misfortune~ remained...",
-            "The cat jumped into your embrace...Seems you have company now.",
-            "Seeing you ignoring it,the cat just left."
+            "#yЧёрный #bкот, появившийся из ниоткуда, остановилось передвами, и преградил путь дальше. NL От Кота несет #r~Смертью~ #r~и~ #r~Несчастьем~ , и когда он смотрит на вас, по вашей коже пробегают мурашки. NL Он мяукает вам, пытаясь привлечь ваше внимание.",
+            "Похоже, кот не хочет отпускать вас просто так. Он оскалил свои клыки и когти и бросился на вас...",
+            "Кот выглядит удовлетворенным и убегает, но вы чувствуете остаточный запах #r~Смерти~ #r~и~ #r~Несчастья~ ...",
+            "Кат прыгнул к вам...Похоже, у вас теперь появилась компания.",
+            "Видя, что вы игнорируете его, кот просто ушел."
         ],
         "OPTIONS": [
-            "[Pet the cat] #rBecome #rCursed #r- #rWraith.",
-            "[Ignore the cat] #gTry #gleaving #gimmediately.",
-            "[Fight]",
-            "[Leave]",
-            "[Pet the cat]"
+            "[Погладить кота] #rПолучить #rПроклятие #r- #rПривидение.",
+            "[Игнорировать кота] #gПопытаться #gсбежать.",
+            "[Драться]",
+            "[Уйти]",
+            "[Погладить кота]"
         ]
     },
     "WWWWWWWWWWWWWW": {
