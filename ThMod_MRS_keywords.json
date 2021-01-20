@@ -55,21 +55,22 @@
     },
     {
       "NAMES": [
-        "Black Flare Star","black flare star"
+        "Чорная звезда","чорная звезда"
       ],
-      "DESCRIPTION":"Black Flare Star is a skill card costs #b0 and grants you Block by discarding cards."
+      "DESCRIPTION":"Карта Навыка ценой в #b0, которая даёт #yЗащиту за сброс карт при разыгрывании."
     },
     {
       "NAMES": [
-        "White Dwarf","white dwarf"
+          "Белый гном",
+	  "белый гном"
       ],
-      "DESCRIPTION":"White Dwarf is a attack card costs #b0 and deals damage depending on the size of your discard pile."
+      "DESCRIPTION":"Карта атаки ценой в #b0, которая наносит урон, зависящий от размера стопки сброса."
     },
     {
       "NAMES": [
-        "Приведение","привидение"
+        "Привидение","привидение"
       ],
-      "DESCRIPTION":"Привидение Сожжёт случ. карту в руке в начале вашего хода."
+      "DESCRIPTION":"Привидение Сжигает случ. карту в руке в начале вашего хода."
     },
     {
       "NAMES": [
