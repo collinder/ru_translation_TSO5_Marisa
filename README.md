@@ -1,4 +1,4 @@
-Русский перевод для мода Slay the Spire под названием TheMystic от автора Johnny_Devo ДЛЯ ВКЛЮЧЕНИЯ САМОЙ ЛУЧШЕЙ КАРТЫ В МОДЕ НУЖЕН ЕЩЕ МОД friendlyminions! https://steamcommunity.com/workshop/filedetails/?id=1612426481 - он находится тут.
+Русский перевод для мода Slay the Spire под названием TSO5_Marisa от автора  Noob Cannon.
 
 Инструкция по установке
 
@@ -7,7 +7,7 @@
 
 Открыть архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода. 
 
-Заменить JSON файлы локализации в архиве по адресу localization/ отсюда.
+Заменить JSON файлы локализации в архиве по адресу localization/ файлами отсюда.
 
 Сам мод: https://steamcommunity.com/sharedfiles/filedetails/?id=1614104912
 
